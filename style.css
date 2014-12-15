@@ -1,0 +1,36 @@
+#mom {display :-webkit-box; -webkit-box-orient:horizontal; -webkit-box-pack: center;  background-color: black;font:bold 20px aerial; bottom:50px;}
+
+#kid1 {border-radius:3px;background: white; padding:15px; margin:5px;-webkit-box-flex:1;text-align:center; }
+
+#kid2 {border-radius:3px; background: yellow; padding:10px; margin:5px;-webkit-box-flex:1;text-align:center;}
+
+#kid3 {border-radius:3px; background: red; padding:10px; margin:5px;-webkit-box-flex:1;text-align:center;}
+
+#kid4 {border-radius:3px; background: orange; padding:10px;margin:5px;-webkit-box-flex:1;text-align:center;}
+
+#kid5 {border-radius:3px; background: #3366FF; padding:10px; margin:5px;-webkit-box-flex:1;text-align:center;}
+
+#kid6 {border-radius:3px; background: yellowgreen; padding:10px;margin:5px;-webkit-box-flex:1;text-align:center;}
+
+#headerstuff{text-align:center;background:-webkit-linear-gradient(right,white, white);color:black; border:solid  black;font-size :25px;}
+
+body{margin-top:15px;margin-left:230px; margin-right:230px;background:#003366; }
+#about {border:solid;background:white;padding-left:25px; padding-right:25px;}
+h2{background-color:yellowgreen; border-radius:3px; padding-left:15px; color:white; }
+img{max-width:900px; max-height:370px;}
+section{font-color: white;}
+ul{list-style-type:square;}
+ol{list-style-type:upper-roman;}
+span{color:silver;}
+h4{color:black; border-radius:1px; background:-webkit-linear-gradient(right,silver, white); text-align:center; width:290px; box-shadow:2px -1px 1px 4px silver;}
+#footer{border:solid black; color:grey; border-radius:0px; background-color:black; list-style-type:none;margin-left:2px;position:relative; top:-16px;right:1px;}
+
+
+#headerstuff:hover{background:-webkit-linear-gradient(left,white, white);font-size :25px; }
+#kid1:hover {background: white; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;}
+#kid2:hover{background: yellow; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;}
+#kid3:hover{background: red; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;}
+#kid4:hover{background: orange; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;}
+#kid5:hover{background: #3366FF; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;}
+#kid6:hover{background: yellowgreen; font-size: 30px; width:190px;  text-align:center; border-radius:9px; text-shadow: 1px 1px 2px midnightblue;color:black;}
+h4:hover{color:midnightblue; border-radius:1px; background:-webkit-linear-gradient(left,silver, white); text-align:center; width:795px; box-shadow:2px -1px 3px 4px silver;}
